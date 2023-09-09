@@ -1,10 +1,3 @@
-
-/*
-Name: Yujesh Joshi, NSHE: 2001780531, Section 1001/1003, Assignment 1
-Description: Code will do a coctail sort with linked lists
-Input: txt file
-Output sorted txt file
-*/
 #include "LL.h"
 #include <iostream>
 #include <fstream>
